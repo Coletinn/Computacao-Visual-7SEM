@@ -1,0 +1,8 @@
+O problema que encontramos se baseia em procurar preservar a privacidade das pessoas, mais precisamente o rosto, para que fique protegido de 
+possíveis ameaças pela identificação da face quando há imagens públicas na internet, garantindo o anonimato através do efeito de "blur".
+A solução do problema consiste no treinamento de um modelo python através do machine learning, visando conseguir capturar um padrão de rostos
+e assim aplicando o efeito de blur neles, tal qual temos o exemplo do Google Maps, onde as pessoas que estão presentes nas capturas das imagens
+possuem sua face borrada com o efeito de blur.
+O uso do filtro auxiliou na solução pois previne a identicação da pessoa e garante o anonimato mesmo estando publicamente na internet.
+
+https://blog.roboflow.com/face-blur-privacy-computer-vision/
