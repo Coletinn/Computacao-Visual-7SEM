@@ -1,3 +1,7 @@
+// Giovanni Vichiatti Mori	  TIA: 32054033
+// Gustavo Coleto de Freitas	  TIA: 32076541
+// João Vitor Teles Centrone	  TIA: 32033125
+
 A técnica de toon/cel shading é um estilo de renderização usado para simular a aparência de desenhos animados ou histórias em quadrinhos em modelos 3D. Em vez de produzir sombras suaves e gradientes de cor, o toon shading utiliza cores planas e transições abruptas entre tons para criar uma aparência mais estilizada e cartunesca.
 
 Funcionamento do toon/cel shading:
