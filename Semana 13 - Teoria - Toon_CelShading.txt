@@ -1,0 +1,22 @@
+A técnica de toon/cel shading é um estilo de renderização usado para simular a aparência de desenhos animados ou histórias em quadrinhos em modelos 3D. Em vez de produzir sombras suaves e gradientes de cor, o toon shading utiliza cores planas e transições abruptas entre tons para criar uma aparência mais estilizada e cartunesca.
+
+Funcionamento do toon/cel shading:
+O toon shading é baseado em uma abordagem de duas etapas. A primeira etapa envolve o cálculo dos tons de sombra. Nessa etapa, são determinadas as áreas que devem ser sombreadas no modelo 3D com base na orientação das suas faces em relação à fonte de luz. Em vez de usar uma fórmula de iluminação complexa, o toon shading atribui tons fixos de sombra para criar uma aparência mais plana.
+
+A segunda etapa envolve a aplicação de cores ao modelo 3D com base em informações adicionais, como texturas ou mapas de cor. Em vez de suavizar as transições entre cores adjacentes, o toon shading cria mudanças abruptas de cor, simulando a aparência de uma imagem de quadrinhos ou desenho animado.
+
+Semelhanças e diferenças do toon/cel shading com Gouraud e Phong shading:
+Tanto o toon shading quanto o Gouraud e Phong shading são técnicas de renderização usadas em gráficos 3D, mas diferem em seus resultados visuais.
+
+O Gouraud shading é uma técnica que calcula a cor em cada vértice de um objeto 3D e, em seguida, interpola as cores entre os vértices para preencher as faces. Esse método produz uma aparência mais suave e realista, com gradientes de cores suaves.
+
+O Phong shading, por sua vez, calcula a cor em cada pixel da tela, levando em consideração a iluminação, o material e a orientação das normais da superfície do objeto. Isso resulta em uma renderização ainda mais realista, com reflexões especulares e destaques precisos.
+
+Imagens incluindo a comparação entre toon/cel shading e Gouraud/Phong shading:
+
+https://okuha.com/wp-content/uploads/2023/02/toon-shading-unreal-engine-example-image.jpg
+
+https://www.ahirlabs.com/wp-content/uploads/2017/12/gourad_and_phong.png
+
+https://i.stack.imgur.com/fyAFK.jpg
+
